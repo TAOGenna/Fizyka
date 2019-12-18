@@ -1,6 +1,3 @@
-# Fizyka
-
-
 
 
 Self Study Mathematics : https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles
