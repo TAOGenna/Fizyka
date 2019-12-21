@@ -11,8 +11,6 @@ PHYSICS CONTEST FOR UNDEGRADUATES(revisar):
 
 http://thworldcup.com/home
 
-http://iypt.org/Home
-
 http://www.uphysicsc.com/
 
 https://www.iaps.info/
