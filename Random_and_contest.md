@@ -6,6 +6,7 @@ PDF todo acerca de postular a un PhD : https://asdfpucpschool.files.wordpress.co
 
 Aula 101 PUCP oportunidades durante el pregrado: https://asdfpucpschool.files.wordpress.com/2019/08/pregrado-101-1.pdf
 
+Introduction to the AdS/CFT correspondence: https://arxiv.org/pdf/1310.4319.pdf
 
 PHYSICS CONTEST FOR UNDEGRADUATES(revisar):
 
