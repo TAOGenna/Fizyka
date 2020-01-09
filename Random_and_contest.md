@@ -10,6 +10,8 @@ Introduction to the AdS/CFT correspondence: https://arxiv.org/pdf/1310.4319.pdf
 
 Application for LIGO: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info
 
+Quora-preparing for get into top phd program : https://www.quora.com/How-do-I-prepare-for-getting-into-a-top-physics-PhD-program
+
 PHYSICS CONTEST FOR UNDEGRADUATES(revisar):
 
 http://thworldcup.com/home
