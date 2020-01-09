@@ -8,6 +8,8 @@ Aula 101 PUCP oportunidades durante el pregrado: https://asdfpucpschool.files.wo
 
 Introduction to the AdS/CFT correspondence: https://arxiv.org/pdf/1310.4319.pdf
 
+Application for LIGO: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/applicants-info
+
 PHYSICS CONTEST FOR UNDEGRADUATES(revisar):
 
 http://thworldcup.com/home
