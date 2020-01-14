@@ -20,4 +20,6 @@ Sources books : http://web.mit.edu/2.111/www/index.htm
 
 Berkeley: https://inst.eecs.berkeley.edu/~cs191/fa14/  
 
+https://www.cs.cmu.edu/~odonnell/quantum18/
+
 ----------------------------------------------------------------------------------------------------------
