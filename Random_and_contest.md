@@ -12,6 +12,8 @@ Application for LIGO: https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/app
 
 Quora-preparing for get into top phd program : https://www.quora.com/How-do-I-prepare-for-getting-into-a-top-physics-PhD-program
 
+Blog about Under and Graduate Mathematics : https://www.math3ma.com/
+
 PHYSICS CONTEST FOR UNDEGRADUATES(revisar):
 
 http://thworldcup.com/home
