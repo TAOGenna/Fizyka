@@ -12,6 +12,8 @@ CalTech : http://www.astro.caltech.edu/~golwala/ph106ab/
 
 Caltech professor -> Particle phyisics and Advanced Quantum Mechanics : http://www.cithep.caltech.edu/~fcp/physics/
 
+Statistical Mechanics Lecture Notes: http://www-f1.ijs.si/~vilfan/SM/
+
 PhD student from Princeton : http://djbinder.com/
 His lecture notes in QTF: http://djbinder.com/documents/QFTNotes.pdf
 ----------------------------------------------------------------------------------------------------------
