@@ -26,4 +26,6 @@ Berkeley: https://inst.eecs.berkeley.edu/~cs191/fa14/
 
 https://www.cs.cmu.edu/~odonnell/quantum18/
 
+Harvard Profesor - Courses and Lecture Notes : https://scholar.harvard.edu/schwartz/teaching
+
 ----------------------------------------------------------------------------------------------------------
